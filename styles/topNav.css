@@ -1,0 +1,13 @@
+
+.branding {
+  height: 45px;
+}
+
+#topNav a:visited {
+  color: white !important;;
+}
+
+#topNav a.active {
+  color: black !important;
+  background-color: white !important;
+}

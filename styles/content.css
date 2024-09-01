@@ -1,0 +1,43 @@
+
+.bosLogo {
+    height: 200px;
+    padding-left: 30px;
+}
+
+.uwo_logo {
+    height: 200px;
+    padding-left: 20%;
+}
+
+#experience .card {
+    width: 1400px;
+}
+
+.profilePic {
+    position:relative;
+    top: 10%;
+    left: 40%;
+    height: 40%;
+    border-radius: 50%;
+}
+
+.introduction {
+    position: relative;
+    top: 10%;
+    left: 15%;
+    width: 85%;
+    font-size: 70px;
+}
+
+#home, #experience, #projects, #about {
+    scroll-margin-top: 77px;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+#home { background-image: url("../images/home_bg.jpg"); }
+#experience { background-image: url("../images/exp_bg.jpg"); }
+#projects { background-image: url("../images/proj_bg.jpg"); }
