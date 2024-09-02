@@ -13,44 +13,25 @@ h1 {
   padding-left: 40px;
 }
 
-
-
-.parallax4 {
-
-  /* The image used */
-  background-image: url("../images/about_bg.jpg");
-
-  /* Full height */
-  height: 100vh;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
-.site-icon-footer {
+.brand-footer {
   padding-top: 20px;
   height: 75px;
-
 }
-
-
 
 footer {
   height: 125px;
   background-color: black;
 }
-footer p {
-  color: lightgrey !important;
 
- }
-footer a {
- color: lightgrey !important;
+footer p, a {
+  color: lightgrey !important;
 }
 
 footer a:hover {
   color: white !important;
- }
+}
+
+footer i {
+  color: white;
+  font-size: 36px !important;
+}

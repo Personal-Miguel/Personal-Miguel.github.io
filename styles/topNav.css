@@ -3,6 +3,10 @@
   height: 45px;
 }
 
+#topNav a {
+  color: white !important;;
+}
+
 #topNav a:visited {
   color: white !important;;
 }
