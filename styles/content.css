@@ -65,7 +65,18 @@
     background-size: cover;
   }
   
-#home { background-image: url("../images/home_bg.jpg"); }
-#experience { background-image: url("../images/exp_bg.jpg"); }
-#projects { background-image: url("../images/proj_bg.jpg"); }
-#about { background-image: url("../images/about_bg.jpg"); }
+#home {
+    background-image: url("../images/home_bg.jpg");
+}
+#experience {
+    padding-left: 5%;
+    background-image: url("../images/exp_bg.jpg");
+}
+#projects {
+    padding-left: 5%;
+    background-image: url("../images/proj_bg.jpg");
+}
+#about {
+    padding-left: 5%;
+    background-image: url("../images/about_bg.jpg");
+}
