@@ -12,7 +12,7 @@
 .walmart_logo {
     height: 80px;
     margin-top: 10%;;
-    padding-left: 5%;
+    padding-left: 3%;
 }
 
 #experience .card {
@@ -54,6 +54,10 @@
 .murren_img {
     width: 300px;
     height: 400px;
+}
+
+#experience .exp {
+    width: 90%;
 }
 
 #home, #experience, #projects, #about {
